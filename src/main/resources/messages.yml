@@ -1,0 +1,4 @@
+# Please don't delete default and edit that key.
+Death-Messages:
+  Default: "&4%l%victim%&c, &4&l%killer% %ctarafından %weapon% &ckullanılırak öldürüldü."
+  Custom-Death-Message: "&4%l%victim%&c, &4&l%killer% %ctarafından öldürüldü."

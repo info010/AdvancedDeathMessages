@@ -1,0 +1,14 @@
+name: AdvancedDeathMessages
+version: '${project.version}'
+main: org.info_0.advanceddeathmessages.AdvancedDeathMessages
+api-version: '1.20'
+folia-supported: true
+commands:
+  adm:
+    description: "test"
+    aliases:
+      - death-message
+permissions:
+  adm.allow-messages:
+    default: true
+    description: "Allow death messages."
